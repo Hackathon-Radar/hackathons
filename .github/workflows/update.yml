@@ -1,0 +1,29 @@
+name: Update hackathon list
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest README from Hackathon Radar
+        run: |
+          curl -fsSL --retry 3 \
+            -H "Authorization: Bearer ${{ secrets.README_FEED_SECRET }}" \
+            "https://www.hackathonradar.com/api/public/hackathon-list" \
+            -o README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "hackathon-radar-bot"
+          git config user.email "bot@hackathonradar.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: refresh upcoming hackathons"
+          git push
