@@ -12,6 +12,32 @@
 
 _Last updated: **2026-07-01** · Showing **278** hackathons happening now or starting within 7 days._
 
+## 🔎 Want the ones further out?
+
+This list only shows what's **live now or starting within 7 days**. On **[Hackathon Radar](https://www.hackathonradar.com)** you get everything else:
+
+- 📅 **Every** upcoming hackathon, months ahead ([browse the full database →](https://www.hackathonradar.com/database))
+- 🗺️ An [interactive world map](https://www.hackathonradar.com/map) of every event
+- 🔔 [Email / Slack / Discord alerts](https://www.hackathonradar.com/pricing) the moment a matching hackathon is announced
+- ⚖️ [Judge opportunities](https://www.hackathonradar.com/judge-opportunities) — hackathons actively looking for judges
+- 🏆 Quality scores, organizer & sponsor intelligence, and audience profiles
+- 🤖 [Claude / MCP integration](https://www.hackathonradar.com/connect) — discover hackathons from your AI assistant
+- 🛂 A [Hack Passport](https://www.hackathonradar.com/hack-passport) to track everything you've built
+
+**[👉 Explore all hackathons on Hackathon Radar](https://www.hackathonradar.com)**
+
+## 📥 Add your hackathon
+
+Running one? [Feature your hackathon](https://www.hackathonradar.com/feature-your-hackathon) to reach thousands of builders.
+
+## ℹ️ About
+
+This list is generated automatically every day from the Hackathon Radar database.
+Dates, locations and prizes are best-effort and may change — always confirm on the
+event's own page. Found an error? [Let us know](https://www.hackathonradar.com/contact).
+
+---
+
 🎓 = student / high-school friendly
 
 ## 🚀 Happening now & starting soon
@@ -296,29 +322,3 @@ _Last updated: **2026-07-01** · Showing **278** hackathons happening now or sta
 | [Dummy](https://www.hackathonradar.com/database/hackathon/845de4fc-1ccf-43de-9229-8b44e3f60b04) 🎓 | Jul 7, 2026 – Jul 8, 2026 | Anywhere | 🌐 Online | — |
 | [Zero to Query: LingoQL Hackathon](https://www.hackathonradar.com/database/hackathon/a3e63662-f49f-437e-a11a-a1e0cbbb9764) 🎓 | Jul 8, 2026 – Jul 21, 2026 | Anywhere | 🌐 Online | $500 |
 | [DS6051 Decoding LLMs Hackathon](https://www.hackathonradar.com/database/hackathon/7c4834e7-2d3f-4fed-ba00-2499a46b6320) 🎓 | Jul 8, 2026 | Charlottesville, United States | 📍 In-person | — |
-
----
-
-## 🔎 Want the ones further out?
-
-This list only shows what's **live now or starting within 7 days**. On **[Hackathon Radar](https://www.hackathonradar.com)** you get everything else:
-
-- 📅 **Every** upcoming hackathon, months ahead ([browse the full database →](https://www.hackathonradar.com/database))
-- 🗺️ An [interactive world map](https://www.hackathonradar.com/map) of every event
-- 🔔 [Email / Slack / Discord alerts](https://www.hackathonradar.com/pricing) the moment a matching hackathon is announced
-- ⚖️ [Judge opportunities](https://www.hackathonradar.com/judge-opportunities) — hackathons actively looking for judges
-- 🏆 Quality scores, organizer & sponsor intelligence, and audience profiles
-- 🤖 [Claude / MCP integration](https://www.hackathonradar.com/connect) — discover hackathons from your AI assistant
-- 🛂 A [Hack Passport](https://www.hackathonradar.com/hack-passport) to track everything you've built
-
-**[👉 Explore all hackathons on Hackathon Radar](https://www.hackathonradar.com)**
-
-## 📥 Add your hackathon
-
-Running one? [Feature your hackathon](https://www.hackathonradar.com/feature-your-hackathon) to reach thousands of builders.
-
-## ℹ️ About
-
-This list is generated automatically every day from the Hackathon Radar database.
-Dates, locations and prizes are best-effort and may change — always confirm on the
-event's own page. Found an error? [Let us know](https://www.hackathonradar.com/contact).
