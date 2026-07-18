@@ -7,10 +7,10 @@
 <p>
   <a href="https://www.hackathonradar.com"><img alt="Live version" src="https://img.shields.io/badge/live-hackathonradar.com-6d28d9"></a>
   <img alt="Updated daily" src="https://img.shields.io/badge/updated-daily-brightgreen">
-  <img alt="Hackathons listed" src="https://img.shields.io/badge/live%20%26%20soon-315-blue">
+  <img alt="Hackathons listed" src="https://img.shields.io/badge/live%20%26%20soon-372-blue">
 </p>
 
-_Last updated: **2026-07-17** · Showing **315** hackathons happening now or starting within 7 days._
+_Last updated: **2026-07-18** · Showing **372** hackathons happening now or starting within 7 days._
 
 ## 🔎 Want the ones further out?
 
@@ -57,7 +57,6 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [Intellect Global Hackathon](https://www.hackathonradar.com/database/hackathon/fa493a15-fc28-44ac-a441-a2fd5efb5c84) 🎓 | Dec 5, 2021 – Dec 31, 2026 | Anywhere | 🌐 Online | — |
 | [Spaceship Titanic](https://www.hackathonradar.com/database/hackathon/25796229-a67d-4b79-9c30-f6f4865aa108) | Feb 23, 2022 – Jan 1, 2030 | Anywhere | 🌐 Online | — |
 | [LLM Classification Finetuning](https://www.hackathonradar.com/database/hackathon/83c12d83-cd53-4a1d-95cf-c773c6079a97) | Oct 16, 2024 – Jul 1, 2030 | Anywhere | 🌐 Online | — |
-| [DemoHack 2025](https://www.hackathonradar.com/database/hackathon/a4cd1768-b85a-4557-9ca9-ffdc8e2a1d96) | Feb 13, 2025 – Feb 13, 2027 | Anywhere | 🌐 Online | $1,000 |
 | [Crypto's Got Talent Season 2](https://www.hackathonradar.com/database/hackathon/d4a36361-9f27-42ed-81bc-0c890d6132af) | Sep 4, 2025 – Aug 30, 2026 | Anywhere | 🌐 Online | $100 |
 | [Codenovate '25](https://www.hackathonradar.com/database/hackathon/ccbe6f83-6011-41f0-851b-ba3694e69240) 🎓 | Sep 29, 2025 – Nov 24, 2027 | Hyderabad, India | 📍 In-person | $960 |
 | [Prototype Today Product Tomorrow Marathonn](https://www.hackathonradar.com/database/hackathon/395fd6b2-0aa3-4d28-b641-aaac854db9b3) | Oct 4, 2025 – Oct 4, 2026 | Anywhere | 🌐 Online | — |
@@ -122,8 +121,8 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [CodeStorm 2026 #2](https://www.hackathonradar.com/database/hackathon/f56fb2ef-242d-48be-ab41-aae808d615a7) | Jun 1, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | $3 |
 | [Ventura Challenge](https://www.hackathonradar.com/database/hackathon/116d5052-195c-45f7-b7df-12f9f189f596) 🎓 | Jun 1, 2026 – Jul 29, 2026 | Anywhere | 🌐 Online | — |
 | [Build for the Future Hackathon 2026](https://www.hackathonradar.com/database/hackathon/f651dfc2-f5ba-4bdf-8ee6-512e71b4685f) | Jun 1, 2026 – Oct 12, 2026 | Anywhere | 🌐 Online | — |
-| [Hack[AI]thon 2.0](https://www.hackathonradar.com/database/hackathon/fb71295d-b38c-4fd3-8d2d-0a519cb6eced) 🎓 | Jun 3, 2026 – Aug 8, 2026 | Belagavi, India | 📍 In-person | — |
 | [HackNexus'26](https://www.hackathonradar.com/database/hackathon/a9763b67-3e9a-480d-ba69-2f250b12adcb) 🎓 | Jun 3, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | $2,400 |
+| [Hack[AI]thon 2.0](https://www.hackathonradar.com/database/hackathon/fb71295d-b38c-4fd3-8d2d-0a519cb6eced) 🎓 | Jun 3, 2026 – Aug 8, 2026 | Belagavi, India | 📍 In-person | — |
 | [Arm Create: AI Optimization Challenge](https://www.hackathonradar.com/database/hackathon/2e123921-f27f-4905-ab4c-89831cec5c32) | Jun 4, 2026 – Aug 14, 2026 | Anywhere | 🌐 Online | $8,000 |
 | [#include 1.0](https://www.hackathonradar.com/database/hackathon/e5e117ed-e1f2-4d05-82f7-35a297a0bf5c) 🎓 | Jun 4, 2026 – Jul 25, 2026 | Puducherry, India | 📍 In-person | $360 |
 | [Porto Hack Santos 2026](https://www.hackathonradar.com/database/hackathon/034ff83f-e354-4a07-86b5-64a9f581e05a) | Jun 5, 2026 – Sep 29, 2026 | Anywhere | 🌐 Online | — |
@@ -139,13 +138,13 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [No Python. No Excuses. Build AI Agents with Mastra](https://www.hackathonradar.com/database/hackathon/5c5b6fff-4f31-48e5-a26d-060a32e0308d) 🎓 | Jun 13, 2026 – Aug 1, 2026 | Bengaluru, India | 📍 In-person | — |
 | [AnimalHack 2026](https://www.hackathonradar.com/database/hackathon/3228dd88-c7ad-4abe-9795-b9a8e88103cc) 🎓 | Jun 14, 2026 – Sep 12, 2026 | Anywhere | 🌐 Online | — |
 | [Build on Canton Hackathon](https://www.hackathonradar.com/database/hackathon/294c968c-6f2b-4071-89dd-e005595bd3bb) | Jun 14, 2026 – Jul 29, 2026 | Anywhere | 🌐 Online | — |
-| [Adaption AutoScientist Challenge Part 2 - $60,000 Prize Pool](https://www.hackathonradar.com/database/hackathon/ffda8435-07ea-463a-8f45-1b8abc7a1f43) | Jun 15, 2026 – Aug 10, 2026 | Anywhere | 🌐 Online | — |
 | [Adaption AutoScientist Challenge- $50,000 prize pool](https://www.hackathonradar.com/database/hackathon/c34a7c01-a218-47c7-a51a-826262efb3b5) | Jun 15, 2026 – Aug 3, 2026 | Anywhere | 🌐 Online | — |
+| [Adaption AutoScientist Challenge Part 2 - $60,000 Prize Pool](https://www.hackathonradar.com/database/hackathon/ffda8435-07ea-463a-8f45-1b8abc7a1f43) | Jun 15, 2026 – Aug 10, 2026 | Anywhere | 🌐 Online | — |
 | [India High School Exoplanet Data Challenge](https://www.hackathonradar.com/database/hackathon/40d154af-d632-4ee6-8080-a3818db3b7b4) 🎓 | Jun 15, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $10,300 |
 | [Snowflake CoCo CLI Hackathon 2026](https://www.hackathonradar.com/database/hackathon/b111defa-351f-4b5b-9ed6-e183820f882f) | Jun 15, 2026 – Aug 2, 2026 | Anywhere | 🌐 Online | — |
 | [Ignisys](https://www.hackathonradar.com/database/hackathon/00a2c5b9-41dd-438d-a9af-e304651edfea) 🎓 | Jun 15, 2026 – Jul 27, 2026 | Kolkata, India | 📍 In-person | — |
-| [The Pokémon Company - PTCG AI Battle Challenge Strategy](https://www.hackathonradar.com/database/hackathon/8c154f01-a9cc-4f4e-9205-56f5807bf510) | Jun 16, 2026 – Sep 13, 2026 | Anywhere | 🌐 Online | $240,000 |
 | [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://www.hackathonradar.com/database/hackathon/f6e8b31a-4ce9-4bb0-9ca8-0f6315008d64) | Jun 16, 2026 – Aug 16, 2026 | Anywhere | 🌐 Online | — |
+| [The Pokémon Company - PTCG AI Battle Challenge Strategy](https://www.hackathonradar.com/database/hackathon/8c154f01-a9cc-4f4e-9205-56f5807bf510) | Jun 16, 2026 – Sep 13, 2026 | Anywhere | 🌐 Online | $240,000 |
 | [SRCAS Hackathon 3.0 - What's the next big idea?](https://www.hackathonradar.com/database/hackathon/e31667ac-5c55-4906-997d-ebab93ba6d1a) 🎓 | Jun 16, 2026 – Aug 15, 2026 | Coimbatore, India | 📍 In-person | $2,160 |
 | [AI YES :International Youth AI Competition](https://www.hackathonradar.com/database/hackathon/313ebd8b-580d-4415-aa01-3b1b708a20e8) 🎓 | Jun 17, 2026 – Sep 1, 2026 | Anywhere | 🌐 Online | — |
 | [Africa Deep Tech Challenge 2026](https://www.hackathonradar.com/database/hackathon/a99f83cd-afbd-4b7a-8d15-d12ee4d37d12) 🎓 | Jun 17, 2026 – Aug 25, 2026 | Anywhere | 🌐 Online | $16,500 |
@@ -156,24 +155,23 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [ImpactForge](https://www.hackathonradar.com/database/hackathon/9f992ea9-594b-41c1-9d7c-3715a256ca43) 🎓 | Jun 19, 2026 – Jul 24, 2026 | Anywhere | 🌐 Online | $300 |
 | [Hacknite: 12 Hour Hackathon](https://www.hackathonradar.com/database/hackathon/c8687e87-7b3f-4bb2-85fb-93012c3e1b12) 🎓 | Jun 19, 2026 – Aug 10, 2026 | Gurugram, India | 📍 In-person | — |
 | [Vitalitics 2026](https://www.hackathonradar.com/database/hackathon/3a91571f-e8ff-42a9-993e-b8659ca7ffed) 🎓 | Jun 20, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
-| [AI for Social Good \| Open Atlas Hackathon 2026](https://www.hackathonradar.com/database/hackathon/739ae2de-a729-4ba9-86a7-662db8d21a7d) | Jun 20, 2026 – Aug 21, 2026 | Milpitas, United States | 📍 In-person | $10,000 |
 | [Open Atlas - AI for Social Good Hackathon 2026](https://www.hackathonradar.com/database/hackathon/6cdc56fa-c81d-48ba-b3fa-f980530e5e7b) 🎓 | Jun 20, 2026 – Aug 21, 2026 | Milpitas, United States | 📍 In-person | $10,000 |
 | [DropHack](https://www.hackathonradar.com/database/hackathon/85c40316-513e-435e-b210-85bc01eed3d5) 🎓 | Jun 20, 2026 – Aug 29, 2026 | Gurugram, India | 📍 In-person | $600 |
 | [QuantumHacks](https://www.hackathonradar.com/database/hackathon/620282bd-0c02-419d-a093-1f8cd6492149) 🎓 | Jun 21, 2026 – Aug 21, 2026 | Anywhere | 🌐 Online | $1,000 |
-| [AI Product Hackathon](https://www.hackathonradar.com/database/hackathon/86e6094d-66cf-41b3-9985-0837a9c7826d) 🎓 | Jun 21, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | — |
 | [AI Product Hackathon 2026](https://www.hackathonradar.com/database/hackathon/76953faa-6563-4441-865a-d05923fcb9ab) | Jun 21, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | $64 |
+| [AI Product Hackathon](https://www.hackathonradar.com/database/hackathon/86e6094d-66cf-41b3-9985-0837a9c7826d) 🎓 | Jun 21, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | — |
 | [Forge 6](https://www.hackathonradar.com/database/hackathon/0272fe6f-bf3d-4bdd-b713-38dc267480a8) 🎓 | Jun 21, 2026 – Aug 14, 2026 | Gurugram, India | 📍 In-person | — |
 | [Pinch Me! I Want 50K Australia](https://www.hackathonradar.com/database/hackathon/0ce1630e-d329-4404-9a6e-cd04025f6585) | Jun 22, 2026 – Jul 22, 2026 | Sydney, Australia | 📍 In-person | $50,000 |
 | [Hackathon Ethereum Uruguay 2026](https://www.hackathonradar.com/database/hackathon/45068c25-069b-4147-a0de-385b571a7dda) 🎓 | Jun 22, 2026 – Jul 25, 2026 | Anywhere | 🌐 Online | $1,500 |
-| [BuunieX Hackathon](https://www.hackathonradar.com/database/hackathon/86fe11a9-c42f-42bf-b624-ac262cb1076b) 🎓 | Jun 22, 2026 – Jul 22, 2026 | Anywhere | 🌐 Online | — |
 | [3D Websites Hackathon](https://www.hackathonradar.com/database/hackathon/abd2b81e-e748-4c1a-ae99-80a249bfe327) 🎓 | Jun 22, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $55 |
+| [BuunieX Hackathon](https://www.hackathonradar.com/database/hackathon/86fe11a9-c42f-42bf-b624-ac262cb1076b) 🎓 | Jun 22, 2026 – Jul 22, 2026 | Anywhere | 🌐 Online | — |
 | [Women Who Master](https://www.hackathonradar.com/database/hackathon/5df334cc-26bc-481f-9f08-810bf31ece1d) 🎓 | Jun 22, 2026 – Sep 10, 2026 | Anywhere | 🌐 Online | $2,700 |
 | [IGAD Hackathon 2026: Smarter Early Warning, Stronger Communities](https://www.hackathonradar.com/database/hackathon/49959cc2-982d-42a2-bf54-5f6ecbb76f71) | Jun 22, 2026 – Jul 31, 2026 | Ngong, Kenya | 📍 In-person | $10,000 |
 | [UXmaxx Hackathon](https://www.hackathonradar.com/database/hackathon/bcc9b3c6-a81b-4a25-aa9a-b5c48ddd7f7c) | Jun 22, 2026 – Aug 2, 2026 | Anywhere | 🌐 Online | — |
 | [Backblaze Generative Media Hackathon: Build with Genblaze on B2](https://www.hackathonradar.com/database/hackathon/10d256ce-af58-4f95-a3a8-c5df6f056872) | Jun 22, 2026 – Aug 3, 2026 | Anywhere | 🌐 Online | $10,000 |
 | [TNX Codathon](https://www.hackathonradar.com/database/hackathon/b43d452c-2d8d-4cab-8758-7e103d10c61b) 🎓 | Jun 22, 2026 – Aug 9, 2026 | Lucknow, India | 📍 In-person | $120 |
-| [Code. Innovate. Impact](https://www.hackathonradar.com/database/hackathon/35c772ae-7d54-4a40-81bd-948ea4599fe1) 🎓 | Jun 22, 2026 – Aug 9, 2026 | Anywhere | 🌐 Online | — |
 | [Agentic AI Hackahton](https://www.hackathonradar.com/database/hackathon/ba311c6a-047c-4ea5-a192-89869a338ad4) 🎓 | Jun 22, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
+| [Code. Innovate. Impact](https://www.hackathonradar.com/database/hackathon/35c772ae-7d54-4a40-81bd-948ea4599fe1) 🎓 | Jun 22, 2026 – Aug 9, 2026 | Anywhere | 🌐 Online | — |
 | [InnoGenesis 2026 - National Level Hackathon (Registration Link) : https://forms.gle/2tiAaCEaF7rvHV8v NOTE:KINDLY REGISTER THROUGH THE LINK PLACED HERE.](https://www.hackathonradar.com/database/hackathon/aa96c978-336b-4a7f-aaf5-5758ec2eceff) 🎓 | Jun 23, 2026 – Jul 23, 2026 | Vijayawada, India | 📍 In-person | — |
 | [Pinch Me! I Want 50K](https://www.hackathonradar.com/database/hackathon/9345c1bc-1ba5-4f45-91ed-8dd1c23568c0) | Jun 23, 2026 – Jul 22, 2026 | Haymarket, Australia | 📍 In-person | $50,000 |
 | [The Rice University Urban Sustainability Hackathon](https://www.hackathonradar.com/database/hackathon/7d8ee202-bf8d-4751-86dc-8ffa202fd0fe) 🎓 | Jun 23, 2026 – Sep 18, 2026 | Anywhere | 🌐 Online | $17,500 |
@@ -196,11 +194,11 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [Google WAXAL ASR Challenge](https://www.hackathonradar.com/database/hackathon/7cd1342c-e8df-44a0-965d-41be6ed6e785) | Jun 26, 2026 – Aug 2, 2026 | Anywhere | 🌐 Online | $10,000 |
 | [Hack to Survive](https://www.hackathonradar.com/database/hackathon/25df698f-59d2-4b62-92f3-b09afbd6eda5) 🎓 | Jun 26, 2026 – Aug 7, 2026 | Anywhere | 🌐 Online | — |
 | [LUMA Hackathon (August 30th - September 7th)](https://www.hackathonradar.com/database/hackathon/5345dd10-85ee-4ec8-b7ad-d24651829a92) 🎓 | Jun 26, 2026 – Sep 7, 2026 | Anywhere | 🌐 Online | — |
-| [LUMA Hackathon (September 20th - 28th)](https://www.hackathonradar.com/database/hackathon/931ad859-a5dd-4c20-b6fb-860356223369) 🎓 | Jun 26, 2026 – Sep 28, 2026 | Anywhere | 🌐 Online | — |
 | [LUMA Hackathon (October 11th - 18th)](https://www.hackathonradar.com/database/hackathon/401b8c98-089a-43b1-9b5a-c8b10e5ef0c4) 🎓 | Jun 26, 2026 – Oct 18, 2026 | Anywhere | 🌐 Online | — |
+| [LUMA Hackathon (September 20th - 28th)](https://www.hackathonradar.com/database/hackathon/931ad859-a5dd-4c20-b6fb-860356223369) 🎓 | Jun 26, 2026 – Sep 28, 2026 | Anywhere | 🌐 Online | — |
 | [Bizzathon-Hackathon](https://www.hackathonradar.com/database/hackathon/132e2552-3a03-42d3-8075-cabcf5645e09) 🎓 | Jun 27, 2026 – Aug 9, 2026 | Dhanbad, India | 📍 In-person | $300 |
-| [NeuraMorphix HackForge 2026](https://www.hackathonradar.com/database/hackathon/56a59f91-c78a-4679-8750-84034843c7d3) 🎓 | Jun 28, 2026 – Sep 20, 2026 | Anywhere | 🌐 Online | — |
 | [HackOcean - A National  Level Frontend Hackathon](https://www.hackathonradar.com/database/hackathon/ea610fec-0221-4d46-885e-5dc5d3126109) 🎓 | Jun 28, 2026 – Jul 24, 2026 | Anywhere | 🌐 Online | $1,872 |
+| [NeuraMorphix HackForge 2026](https://www.hackathonradar.com/database/hackathon/56a59f91-c78a-4679-8750-84034843c7d3) 🎓 | Jun 28, 2026 – Sep 20, 2026 | Anywhere | 🌐 Online | — |
 | [Flare Summer Signal](https://www.hackathonradar.com/database/hackathon/93d91cae-47e7-4db4-8734-1a9ed4d3fc9a) | Jun 28, 2026 – Aug 14, 2026 | Anywhere | 🌐 Online | $12,000 |
 | [Build Your One-Person On-Chain Finance Business with SoSoValue](https://www.hackathonradar.com/database/hackathon/30443ed3-59c8-4ae2-8d72-6f5b8343db68) | Jun 28, 2026 – Aug 2, 2026 | Anywhere | 🌐 Online | $4,000 |
 | [Brilliant Move](https://www.hackathonradar.com/database/hackathon/11225f90-deaf-45fc-83f6-91b895fcabfc) 🎓 | Jun 29, 2026 – Aug 3, 2026 | — | 🔀 Hybrid | — |
@@ -211,18 +209,18 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [ML Empowerment Build Challenge 2.0](https://www.hackathonradar.com/database/hackathon/27849520-f70b-4833-ac0a-70fe1fc7bf56) 🎓 | Jun 30, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $1,000 |
 | [Inceptia Hackathon](https://www.hackathonradar.com/database/hackathon/468afbc4-5925-40a0-ae66-0040f92c8f8b) 🎓 | Jun 30, 2026 – Aug 8, 2026 | Pune, India | 📍 In-person | $600 |
 | [CockroachDB × AWS Hackathon - Build with Agentic Memory](https://www.hackathonradar.com/database/hackathon/f3a13f2a-ee01-4906-aa3b-71a6ac7de790) | Jun 30, 2026 – Aug 18, 2026 | Anywhere | 🌐 Online | $8,750 |
-| [Frontend Wars 2026: Build the Future](https://www.hackathonradar.com/database/hackathon/1994063a-e0b1-475a-8d05-be9192d5be2e) 🎓 | Jun 30, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $48 |
-| [Indradhanu: PCCOE International Grand Challenge 2026](https://www.hackathonradar.com/database/hackathon/792a9f1a-ec81-4c96-94f4-dbc103744e92) 🎓 | Jun 30, 2026 – Feb 14, 2027 | Pune, India | 📍 In-person | $2,400 |
-| [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://www.hackathonradar.com/database/hackathon/cdb5cb06-7ef6-4b12-97bc-2c21efeda43b) 🎓 | Jun 30, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | — |
+| [Aerothon 2026 - HAL x IITI](https://www.hackathonradar.com/database/hackathon/07b17efc-9279-4c93-83ba-3edbd18a6901) 🎓 | Jun 30, 2026 – Aug 8, 2026 | Anywhere | 🌐 Online | — |
 | [Smart School FinTech Innovation Challenge 2026](https://www.hackathonradar.com/database/hackathon/61d5e5c8-5d3f-483c-a9c0-f486b0927cb8) 🎓 | Jun 30, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
 | [Hacklabify V1.0](https://www.hackathonradar.com/database/hackathon/3fd311fa-8cf1-4d57-a756-7055aded0a70) 🎓 | Jun 30, 2026 – Sep 2, 2026 | Gurugram, India | 📍 In-person | — |
-| [Aerothon 2026 - HAL x IITI](https://www.hackathonradar.com/database/hackathon/07b17efc-9279-4c93-83ba-3edbd18a6901) 🎓 | Jun 30, 2026 – Aug 8, 2026 | Anywhere | 🌐 Online | — |
+| [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://www.hackathonradar.com/database/hackathon/cdb5cb06-7ef6-4b12-97bc-2c21efeda43b) 🎓 | Jun 30, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | — |
+| [Indradhanu: PCCOE International Grand Challenge 2026](https://www.hackathonradar.com/database/hackathon/792a9f1a-ec81-4c96-94f4-dbc103744e92) 🎓 | Jun 30, 2026 – Feb 14, 2027 | Pune, India | 📍 In-person | $2,400 |
+| [Frontend Wars 2026: Build the Future](https://www.hackathonradar.com/database/hackathon/1994063a-e0b1-475a-8d05-be9192d5be2e) 🎓 | Jun 30, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $48 |
 | [Predicting Student Health Risk](https://www.hackathonradar.com/database/hackathon/38ff568b-b23b-42f0-bac4-933498537af0) 🎓 | Jul 1, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
-| [Hack the Arts](https://www.hackathonradar.com/database/hackathon/45734cdd-d3af-492c-a4f0-0706202a655f) 🎓 | Jul 1, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $1,000 |
-| [AI Builders Challenge with IBM Bob](https://www.hackathonradar.com/database/hackathon/81ae45f6-3922-4d17-8325-9f228ab90a5b) 🎓 | Jul 1, 2026 – Aug 31, 2026 | Anywhere | 🌐 Online | — |
 | [Code Resurrection 2026 — Port Mortem: Reviving Forgotten Code, Rebuilding Digital Futures](https://www.hackathonradar.com/database/hackathon/ea3b61d0-b694-457f-ac16-0c819a7fb9c5) | Jul 1, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
-| [BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition](https://www.hackathonradar.com/database/hackathon/2bd2dd5d-b7b4-4060-9958-35624f26e784) 🎓 | Jul 1, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $600 |
+| [AI Builders Challenge with IBM Bob](https://www.hackathonradar.com/database/hackathon/81ae45f6-3922-4d17-8325-9f228ab90a5b) 🎓 | Jul 1, 2026 – Aug 31, 2026 | Anywhere | 🌐 Online | — |
+| [Hack the Arts](https://www.hackathonradar.com/database/hackathon/45734cdd-d3af-492c-a4f0-0706202a655f) 🎓 | Jul 1, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $1,000 |
 | [Hackonomics 2026](https://www.hackathonradar.com/database/hackathon/baa56a66-0a29-442c-8cbd-d9f4ef683d35) 🎓 | Jul 1, 2026 – Jun 1, 2027 | Anywhere | 🌐 Online | $10 |
+| [BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition](https://www.hackathonradar.com/database/hackathon/2bd2dd5d-b7b4-4060-9958-35624f26e784) 🎓 | Jul 1, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $600 |
 | [Hackonomics 2027](https://www.hackathonradar.com/database/hackathon/84926901-6feb-4140-ab03-75df5023e18a) 🎓 | Jul 1, 2026 – Jun 1, 2027 | Anywhere | 🌐 Online | — |
 | [AI for Marketers Hackathon](https://www.hackathonradar.com/database/hackathon/1fe6ee6b-0a0f-4f48-a19d-64d645d1d76f) | Jul 1, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
 | [Breaking Bot IPEC](https://www.hackathonradar.com/database/hackathon/3cdd29a7-b1f8-47f5-859a-543bdbf6efcc) 🎓 | Jul 1, 2026 – Aug 8, 2026 | Sahibabad, India | 📍 In-person | — |
@@ -230,22 +228,21 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [WTF !! hackathon summer edition](https://www.hackathonradar.com/database/hackathon/05dc7ae0-50be-45a5-b3d9-c68d7e8ffce4) | Jul 1, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $1,500 |
 | [KeeperHub - Agents Onchain Hackathon](https://www.hackathonradar.com/database/hackathon/803af7ad-76ef-4256-bccf-de0375c039bc) | Jul 2, 2026 – Aug 13, 2026 | Anywhere | 🌐 Online | $5,000 |
 | [OKX.AI Genesis Hackathon](https://www.hackathonradar.com/database/hackathon/a9c8095c-52ce-43c0-953d-ebbc12cf40b2) | Jul 2, 2026 – Jul 27, 2026 | Anywhere | 🌐 Online | $100,000 |
-| [ThunderCipher Case Files #001: The Crypto Heist](https://www.hackathonradar.com/database/hackathon/60932e90-1da5-43fe-bf40-d0da12f5543a) | Jul 2, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
 | [Vibeathon 6.0 (Vibecoding Hackathon)](https://www.hackathonradar.com/database/hackathon/b6ec616c-f142-4bb8-8243-23e12bfe0aae) 🎓 | Jul 2, 2026 – Jul 23, 2026 | Anywhere | 🌐 Online | — |
-| [AlgoSprint 2026 – Online Coding Challenge](https://www.hackathonradar.com/database/hackathon/37ecbf8d-3827-441b-9563-4a6e871a0383) 🎓 | Jul 2, 2026 – Sep 30, 2026 | Anywhere | 🌐 Online | — |
+| [ThunderCipher Case Files #001: The Crypto Heist](https://www.hackathonradar.com/database/hackathon/60932e90-1da5-43fe-bf40-d0da12f5543a) | Jul 2, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
 | [International Innovation Challenge 3.0](https://www.hackathonradar.com/database/hackathon/62c63584-be29-4785-89e1-51c42fcad3dc) 🎓 | Jul 2, 2026 – Aug 25, 2026 | Jaipur, India | 📍 In-person | $8,400 |
+| [AlgoSprint 2026 – Online Coding Challenge](https://www.hackathonradar.com/database/hackathon/37ecbf8d-3827-441b-9563-4a6e871a0383) 🎓 | Jul 2, 2026 – Sep 30, 2026 | Anywhere | 🌐 Online | — |
 | [Hack for Humanity \| Summer 2026](https://www.hackathonradar.com/database/hackathon/b03f2bfb-128a-471a-816c-6fe34670c448) | Jul 3, 2026 – Aug 2, 2026 | Anywhere | 🌐 Online | — |
 | [The Injective Global Cup](https://www.hackathonradar.com/database/hackathon/eb6e75a6-9d5b-4283-b805-0f72525eb2ae) | Jul 3, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | $1,000 |
 | [Sovereign AI Codefest](https://www.hackathonradar.com/database/hackathon/3319eb1d-8a2d-4754-ba8d-f692af112be1) | Jul 3, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
 | [R.O.A.D. Barbados Historic Handwriting Challenge](https://www.hackathonradar.com/database/hackathon/fdc8e043-5ce3-41e1-93f4-59a2e90a407d) | Jul 3, 2026 – Oct 4, 2026 | Anywhere | 🌐 Online | $25,000 |
 | [Brainwave 2026 – X402 Blockchain Track](https://www.hackathonradar.com/database/hackathon/6ca7cbea-142b-487f-b760-8a7af971e2ba) | Jul 3, 2026 – Jul 31, 2026 | Delhi, India | 📍 In-person | $1,200 |
-| [Hack Synthesis 3.0 - 2026](https://www.hackathonradar.com/database/hackathon/54c3836e-fe4a-4ac7-9a8c-7755e5d4d467) 🎓 | Jul 3, 2026 – Sep 20, 2026 | Kolkata, India | 📍 In-person | $720 |
 | [Tech-A-Thon 5.0](https://www.hackathonradar.com/database/hackathon/ec7b0fa1-406e-49ae-ac33-ec3ddde5de47) 🎓 | Jul 3, 2026 – Aug 23, 2026 | Anywhere | 🌐 Online | — |
+| [Hack Synthesis 3.0 - 2026](https://www.hackathonradar.com/database/hackathon/54c3836e-fe4a-4ac7-9a8c-7755e5d4d467) 🎓 | Jul 3, 2026 – Sep 20, 2026 | Kolkata, India | 📍 In-person | $720 |
 | [Varithon 2026](https://www.hackathonradar.com/database/hackathon/1a7facff-7dc5-477b-8983-80b4182f3b3e) 🎓 | Jul 4, 2026 – Aug 29, 2026 | Pune, India | 📍 In-person | — |
-| [Aethera Hacks](https://www.hackathonradar.com/database/hackathon/9a5be1a1-36ac-42d2-8505-f9c3da757833) 🎓 | Jul 5, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
-| [National Level Technical Hackathon](https://www.hackathonradar.com/database/hackathon/325f99c0-717b-4f2a-9a9e-6d4f54248f39) | Jul 5, 2026 – Aug 11, 2026 | Perambalur, India | 📍 In-person | — |
-| [Innovate 4 Impact](https://www.hackathonradar.com/database/hackathon/cbf9e6f3-8122-401d-acef-dadfd98ec709) 🎓 | Jul 5, 2026 – Aug 7, 2026 | Anywhere | 🌐 Online | — |
 | [S.T.E.M Jam](https://www.hackathonradar.com/database/hackathon/19757871-267d-476b-8481-845cc7381326) | Jul 5, 2026 – Aug 29, 2026 | Anywhere | 🌐 Online | — |
+| [Innovate 4 Impact](https://www.hackathonradar.com/database/hackathon/cbf9e6f3-8122-401d-acef-dadfd98ec709) 🎓 | Jul 5, 2026 – Aug 7, 2026 | Anywhere | 🌐 Online | — |
+| [National Level Technical Hackathon](https://www.hackathonradar.com/database/hackathon/325f99c0-717b-4f2a-9a9e-6d4f54248f39) | Jul 5, 2026 – Aug 11, 2026 | Perambalur, India | 📍 In-person | — |
 | [305 SummerCodex Edition July 2026](https://www.hackathonradar.com/database/hackathon/8762c0da-021b-482b-ade8-140f9f00ba3c) 🎓 | Jul 5, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | — |
 | [OneInbox AI Internship Hackathon 2026](https://www.hackathonradar.com/database/hackathon/5e23178d-8acb-4e9d-bf91-c44ebcbc8f79) 🎓 | Jul 6, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | $240 |
 | [Build with DataHub: The Agent Hackathon](https://www.hackathonradar.com/database/hackathon/d2e40750-8fc4-44ba-a7f7-5a97a2cf34d1) | Jul 6, 2026 – Aug 10, 2026 | Anywhere | 🌐 Online | $20,500 |
@@ -254,6 +251,7 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [YouCam API Skin AI & Apparel VTO Hackathon](https://www.hackathonradar.com/database/hackathon/8962a16d-015a-4bd6-9955-5761d9fea748) | Jul 6, 2026 – Aug 17, 2026 | Anywhere | 🌐 Online | $6,000 |
 | [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://www.hackathonradar.com/database/hackathon/bae3ffa7-a38a-4de1-9773-7c4eeff8e2e6) | Jul 6, 2026 – Sep 26, 2026 | Greater Noida, India | 📍 In-person | $5,400 |
 | [Win4AISafety - Open Research Summer Challenge](https://www.hackathonradar.com/database/hackathon/4488b6f2-14bf-4c02-a7dc-f7cea7be8fff) 🎓 | Jul 6, 2026 – Aug 17, 2026 | Anywhere | 🌐 Online | — |
+| [WEEX AI Wars II：人类 vs AI](https://www.hackathonradar.com/database/hackathon/577a66d4-c45b-403a-b3f0-6d52cb4d8929) | Jul 7, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $200,000 |
 | [Brainwave](https://www.hackathonradar.com/database/hackathon/f533f5fd-2115-4d67-92ac-9b5a8d602dcb) 🎓 | Jul 7, 2026 – Aug 21, 2026 | Delhi, India | 📍 In-person | $3,600 |
 | [EduSync: Connect the Web](https://www.hackathonradar.com/database/hackathon/8e8a701f-ea2c-49ea-97eb-b3a84913bf83) 🎓 | Jul 7, 2026 – Jul 24, 2026 | Anywhere | 🌐 Online | $540 |
 | [Shepreneurs 2026](https://www.hackathonradar.com/database/hackathon/d7576ec1-37b6-4286-b7cf-d45e1069595e) 🎓 | Jul 7, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $90 |
@@ -262,100 +260,159 @@ event's own page. Found an error? [Let us know](https://www.hackathonradar.com/c
 | [Datasphere](https://www.hackathonradar.com/database/hackathon/c25bcdbf-b931-4a69-966f-5663eea7c54e) | Jul 7, 2026 – Jul 31, 2026 | Chennai, India | 📍 In-person | — |
 | [DevFusion 4.O- The Developers Hackathon](https://www.hackathonradar.com/database/hackathon/e5843177-02ca-4b88-a813-cd4d85644fdf) 🎓 | Jul 7, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | — |
 | [Adobe University Hackathon 2026](https://www.hackathonradar.com/database/hackathon/8d3b81e4-2bfe-4e37-85af-e079e1ff77af) 🎓 | Jul 7, 2026 – Oct 16, 2026 | Anywhere | 🌐 Online | — |
-| [Build an MCP App and get upto $150 Prize](https://www.hackathonradar.com/database/hackathon/f9111d48-5077-45a6-878d-6c9a0af9f53f) | Jul 8, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | $100 |
 | [Zero to Query: LingoQL Hackathon](https://www.hackathonradar.com/database/hackathon/a3e63662-f49f-437e-a11a-a1e0cbbb9764) 🎓 | Jul 8, 2026 – Jul 21, 2026 | Anywhere | 🌐 Online | $500 |
-| [HackVerse 2026 \| National Level Innovation Hackathon](https://www.hackathonradar.com/database/hackathon/e9f319de-1ea4-49f9-a4af-2e00ce776d42) 🎓 | Jul 8, 2026 – Aug 21, 2026 | Anywhere | 🌐 Online | — |
 | [NextGen Innovators Hackathon 2026](https://www.hackathonradar.com/database/hackathon/1930779c-09b1-4184-ac66-17bfbf6478d0) | Jul 8, 2026 – Jul 22, 2026 | Anywhere | 🌐 Online | — |
+| [HackVerse 2026 \| National Level Innovation Hackathon](https://www.hackathonradar.com/database/hackathon/e9f319de-1ea4-49f9-a4af-2e00ce776d42) 🎓 | Jul 8, 2026 – Aug 21, 2026 | Anywhere | 🌐 Online | — |
 | [0G Bridge by AKINDO](https://www.hackathonradar.com/database/hackathon/48a7979c-92ef-4b9f-8964-ba5c86b82d9d) | Jul 8, 2026 – Jul 23, 2026 | Anywhere | 🌐 Online | $80 |
 | [RealWorldIQ Challenge 2026](https://www.hackathonradar.com/database/hackathon/098764d1-4dd5-4d1c-80e8-6fac35603ad6) 🎓 | Jul 9, 2026 – Aug 13, 2026 | Anywhere | 🌐 Online | $66 |
 | [test](https://www.hackathonradar.com/database/hackathon/673914c4-4703-4080-8799-0d62462dad6d) | Jul 9, 2026 – Aug 23, 2026 | Tirupati, India | 📍 In-person | — |
 | [Google Fresher Party: Planning Night With Nano Banana](https://www.hackathonradar.com/database/hackathon/8927ccda-edc2-499d-9f95-44fa00cb7ba0) | Jul 9, 2026 – Jul 24, 2026 | Anywhere | 🌐 Online | — |
 | [A Step Ahead of Drought: Forecasting Global Water Storage Challenge](https://www.hackathonradar.com/database/hackathon/e9886fd5-e6cb-4157-86ad-5b8ecd54eaa7) | Jul 9, 2026 – Sep 13, 2026 | Anywhere | 🌐 Online | $2,160 |
-| [DEMUX 3.0](https://www.hackathonradar.com/database/hackathon/eff434eb-e72f-46de-8643-dc8d521c3660) | Jul 9, 2026 – Aug 14, 2026 | Medak, India | 📍 In-person | — |
 | [All India Hackathon](https://www.hackathonradar.com/database/hackathon/4a4301a2-b6b8-4f00-a4c5-f97027b2383c) 🎓 | Jul 9, 2026 – Aug 29, 2026 | Anywhere | 🌐 Online | — |
+| [DEMUX 3.0](https://www.hackathonradar.com/database/hackathon/eff434eb-e72f-46de-8643-dc8d521c3660) | Jul 9, 2026 – Aug 14, 2026 | Medak, India | 📍 In-person | — |
 | [Hacksynergy 2026](https://www.hackathonradar.com/database/hackathon/bce6fa6d-8d18-4998-8f57-c82c40e3a938) 🎓 | Jul 10, 2026 – Aug 23, 2026 | Ghaziabad, India | 📍 In-person | $1,200 |
-| [NextGen Innovation2026](https://www.hackathonradar.com/database/hackathon/fe0996bc-8ef9-473b-8a63-402364c052b3) 🎓 | Jul 11, 2026 – Aug 8, 2026 | Anywhere | 🌐 Online | — |
-| [Global Innovation Build Challenge V2](https://www.hackathonradar.com/database/hackathon/9aceb76e-d9d9-4b4f-bc6d-b9e8ddc4c67c) 🎓 | Jul 11, 2026 – Sep 21, 2026 | Anywhere | 🌐 Online | — |
 | [MEET AND GREET NETWORKING HACKATHON](https://www.hackathonradar.com/database/hackathon/ec9fd6d4-e301-4822-9785-91e2292e5e59) | Jul 11, 2026 – Jul 21, 2026 | Las Vegas, United States | 📍 In-person | $90 |
+| [Global Innovation Build Challenge V2](https://www.hackathonradar.com/database/hackathon/9aceb76e-d9d9-4b4f-bc6d-b9e8ddc4c67c) 🎓 | Jul 11, 2026 – Sep 21, 2026 | Anywhere | 🌐 Online | — |
+| [NextGen Innovation2026](https://www.hackathonradar.com/database/hackathon/fe0996bc-8ef9-473b-8a63-402364c052b3) 🎓 | Jul 11, 2026 – Aug 8, 2026 | Anywhere | 🌐 Online | — |
 | [OpenAI Build Week Community Hackathon - Kuala Lumpur](https://www.hackathonradar.com/database/hackathon/9a8853fe-749d-4c76-8173-1725dd91382d) | Jul 11, 2026 – Jul 18, 2026 | Petaling Jaya, Malaysia | 📍 In-person | — |
 | [Sports World Cup Hackathon](https://www.hackathonradar.com/database/hackathon/42744bf8-04f2-4e17-9f99-1a72ed366ec0) | Jul 11, 2026 – Aug 12, 2026 | San Francisco, United States | 📍 In-person | — |
-| [ByteBattle Hackathon 2026](https://www.hackathonradar.com/database/hackathon/d17f71b8-3a0e-4576-9dd7-8acada8114e4) 🎓 | Jul 11, 2026 – Aug 5, 2026 | Anywhere | 🌐 Online | — |
-| [Global AI Hackathon 2026](https://www.hackathonradar.com/database/hackathon/0dc35461-4bbc-4aa2-8789-716aa82aef48) 🎓 | Jul 11, 2026 – Jul 25, 2026 | Anywhere | 🌐 Online | — |
-| [AI Design Sprint: Fresher Party Planning Night](https://www.hackathonradar.com/database/hackathon/daba2c92-babb-4270-a27c-b9bc9ffacf27) | Jul 11, 2026 – Jul 17, 2026 | Anywhere | 🌐 Online | — |
-| [IgniteX HackFest 2026](https://www.hackathonradar.com/database/hackathon/7f2e8ea5-71df-4eba-adec-277be03a44b0) 🎓 | Jul 11, 2026 – Aug 9, 2026 | Anywhere | 🌐 Online | — |
 | [FutureTech HackFest 2026](https://www.hackathonradar.com/database/hackathon/920c8209-cb9c-4829-8515-45c6ed5f4043) | Jul 11, 2026 – Aug 4, 2026 | Anywhere | 🌐 Online | — |
-| [NextHorizon Hackathon](https://www.hackathonradar.com/database/hackathon/14de1173-4189-4f02-896a-f828fa7bbb5a) 🎓 | Jul 12, 2026 – Jul 21, 2026 | Anywhere | 🌐 Online | — |
-| [HackMatriX 2026 -  24 Hour National Hackathon](https://www.hackathonradar.com/database/hackathon/53aa045a-9eeb-46f8-9265-8cfd25539cfa) 🎓 | Jul 12, 2026 – Jul 27, 2026 | Anywhere | 🌐 Online | — |
+| [Global AI Hackathon 2026](https://www.hackathonradar.com/database/hackathon/0dc35461-4bbc-4aa2-8789-716aa82aef48) 🎓 | Jul 11, 2026 – Jul 25, 2026 | Anywhere | 🌐 Online | — |
+| [ByteBattle Hackathon 2026](https://www.hackathonradar.com/database/hackathon/d17f71b8-3a0e-4576-9dd7-8acada8114e4) 🎓 | Jul 11, 2026 – Aug 5, 2026 | Anywhere | 🌐 Online | — |
+| [IgniteX HackFest 2026](https://www.hackathonradar.com/database/hackathon/7f2e8ea5-71df-4eba-adec-277be03a44b0) 🎓 | Jul 11, 2026 – Aug 9, 2026 | Anywhere | 🌐 Online | — |
 | [DTI Ideathon & Hackathon 2026](https://www.hackathonradar.com/database/hackathon/e36fff93-4de3-47f9-84ce-4d91b155b088) 🎓 | Jul 12, 2026 – Jul 21, 2026 | Anywhere | 🌐 Online | — |
 | [Internation Hackathon For STEM](https://www.hackathonradar.com/database/hackathon/427aeaff-9372-4d33-b09b-480e3ab6d473) 🎓 | Jul 12, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | — |
+| [NextHorizon Hackathon](https://www.hackathonradar.com/database/hackathon/14de1173-4189-4f02-896a-f828fa7bbb5a) 🎓 | Jul 12, 2026 – Jul 21, 2026 | Anywhere | 🌐 Online | — |
+| [HackMatriX 2026 -  24 Hour National Hackathon](https://www.hackathonradar.com/database/hackathon/53aa045a-9eeb-46f8-9265-8cfd25539cfa) 🎓 | Jul 12, 2026 – Jul 27, 2026 | Anywhere | 🌐 Online | $84 |
 | [Programmable Money Hackathon](https://www.hackathonradar.com/database/hackathon/1569295e-9cce-4969-967d-282cd004ebc6) | Jul 12, 2026 – Aug 30, 2026 | Anywhere | 🌐 Online | — |
 | [Casper Agentic Buildathon 2026 - Final Round](https://www.hackathonradar.com/database/hackathon/c06e99f9-b886-4ad2-a770-a636b6af5515) | Jul 13, 2026 – Jul 26, 2026 | Anywhere | 🌐 Online | $150,000 |
 | [European Agentic AI Bootcamp](https://www.hackathonradar.com/database/hackathon/9309a73c-fa21-4490-add2-189cf17e6ac1) | Jul 13, 2026 – Jul 22, 2026 | Anywhere | 🌐 Online | — |
 | [OpenAI Build Week](https://www.hackathonradar.com/database/hackathon/517befc2-826c-4755-9ec9-4cb6fc448746) | Jul 13, 2026 – Jul 22, 2026 | Anywhere | 🌐 Online | $100,000 |
-| [INNOVIK 6.0 : International Hackathon 2026](https://www.hackathonradar.com/database/hackathon/c3fb4dec-e289-46dc-97cc-1abe16bf7ec8) 🎓 | Jul 13, 2026 – Aug 14, 2026 | Indore, India | 📍 In-person | $2,400 |
 | [The Closer- FlytBase Hiring Hackathon](https://www.hackathonradar.com/database/hackathon/08263f5e-ed2a-4e4e-91f5-6b7ee0be476d) 🎓 | Jul 13, 2026 – Jul 27, 2026 | Anywhere | 🌐 Online | — |
+| [INNOVIK 6.0 : International Hackathon 2026](https://www.hackathonradar.com/database/hackathon/c3fb4dec-e289-46dc-97cc-1abe16bf7ec8) 🎓 | Jul 13, 2026 – Aug 14, 2026 | Indore, India | 📍 In-person | $2,400 |
 | [NERDS 1.0 - India's First AI Hackathon For Schools](https://www.hackathonradar.com/database/hackathon/de58e1c8-f7fc-40ba-a77b-eabb8abdf96d) 🎓 | Jul 13, 2026 – Jul 30, 2026 | Thiruvananthapuram, India | 📍 In-person | — |
 | [Global Challenge Lab 2026](https://www.hackathonradar.com/database/hackathon/64c7f2e4-0836-4c5e-9253-f10cd4dc4d5f) 🎓 | Jul 14, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | — |
 | [Outpost](https://www.hackathonradar.com/database/hackathon/30e01c0c-3d9a-45d5-b75c-3ae8b41d56e7) 🎓 | Jul 14, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | — |
-| [Hackclub Teen Hackathon - Open Registration](https://www.hackathonradar.com/database/hackathon/f64503f1-6b89-40bf-bfea-82d500ff19bc) | Jul 14, 2026 – Jul 17, 2026 | — | 📍 In-person | — |
-| [IDEATHON: Spark Before the Code](https://www.hackathonradar.com/database/hackathon/f8637c94-9617-433c-9ebe-b9048b46e477) 🎓 | Jul 14, 2026 – Sep 4, 2026 | Sion Mumbai, India | 📍 In-person | — |
-| [ELUCode](https://www.hackathonradar.com/database/hackathon/33fcdaf2-03dc-472a-b647-2e2300ac1532) 🎓 | Jul 14, 2026 – Aug 15, 2026 | Anywhere | 🌐 Online | — |
-| [PIXEL 3.0](https://www.hackathonradar.com/database/hackathon/e04d4ade-da14-45d6-a118-5cd13528bd76) 🎓 | Jul 14, 2026 – Jul 28, 2026 | Anywhere | 🌐 Online | — |
-| [CoLab Nation Prompt Engineering Challenge 2026](https://www.hackathonradar.com/database/hackathon/e6907b87-8c2b-4c47-9895-f4047a5c8522) | Jul 14, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | — |
 | [ML Hackathon](https://www.hackathonradar.com/database/hackathon/bd918317-5949-49b1-91a3-946db817e057) 🎓 | Jul 14, 2026 – Aug 30, 2026 | Anywhere | 🌐 Online | — |
+| [PIXEL 3.0](https://www.hackathonradar.com/database/hackathon/e04d4ade-da14-45d6-a118-5cd13528bd76) 🎓 | Jul 14, 2026 – Jul 28, 2026 | Anywhere | 🌐 Online | — |
+| [Smackathon 2k26](https://www.hackathonradar.com/database/hackathon/eaa0eda5-046a-48e5-a542-9222d54a91cb) 🎓 | Jul 14, 2026 – Oct 6, 2026 | Anywhere | 🌐 Online | $480 |
+| [IDEATHON: Spark Before the Code](https://www.hackathonradar.com/database/hackathon/f8637c94-9617-433c-9ebe-b9048b46e477) 🎓 | Jul 14, 2026 – Sep 4, 2026 | Sion Mumbai, India | 📍 In-person | — |
+| [CoLab Nation Prompt Engineering Challenge 2026](https://www.hackathonradar.com/database/hackathon/e6907b87-8c2b-4c47-9895-f4047a5c8522) | Jul 14, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | — |
+| [ELUCode](https://www.hackathonradar.com/database/hackathon/33fcdaf2-03dc-472a-b647-2e2300ac1532) 🎓 | Jul 14, 2026 – Aug 15, 2026 | Anywhere | 🌐 Online | — |
 | [Orchestrix: Newgen x AI Club IITM](https://www.hackathonradar.com/database/hackathon/48c4cf7f-15bf-4406-8459-3e47d926806d) 🎓 | Jul 14, 2026 – Sep 6, 2026 | Anywhere | 🌐 Online | $2,400 |
 | [Credx Hiring Challenge 2.0](https://www.hackathonradar.com/database/hackathon/15e2c41e-eac5-428d-ab1d-1b1aa3e6e88f) 🎓 | Jul 14, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
 | [Galuxium Nexus V2](https://www.hackathonradar.com/database/hackathon/5f95dbf4-d146-456d-a5c3-58495ccb6b26) 🎓 | Jul 15, 2026 – Aug 1, 2026 | Anywhere | 🌐 Online | $1,200 |
-| [Conquer AI Hackathon – Chapter 1](https://www.hackathonradar.com/database/hackathon/95d99f3a-2fcc-4e83-8698-f48f9458b2fa) | Jul 15, 2026 – Jul 17, 2026 | Anywhere | 🌐 Online | — |
-| [Evil Corp CTF 6 Hour Intense Hacking](https://www.hackathonradar.com/database/hackathon/cd05f8e7-cfca-4636-8eb8-1f63009805aa) 🎓 | Jul 15, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $20 |
-| [Build With Bharat 2.0](https://www.hackathonradar.com/database/hackathon/4203d99f-2ec1-4272-a97e-48a562ed23b3) 🎓 | Jul 15, 2026 – Sep 13, 2026 | Delhi, India | 📍 In-person | — |
-| [Code O'Clock 2K26](https://www.hackathonradar.com/database/hackathon/c96d1d49-dbc8-44ac-adb3-6145b244a19c) 🎓 | Jul 15, 2026 – Aug 17, 2026 | Coimbatore, India | 📍 In-person | $600 |
-| [H & P PROJECTS Hackathon Global Challenges 2026](https://www.hackathonradar.com/database/hackathon/a779c0ac-ab6c-43ca-b42a-5009a8645e05) 🎓 | Jul 15, 2026 – Aug 24, 2026 | Anywhere | 🌐 Online | — |
+| [IEEE HackSynapse 2026](https://www.hackathonradar.com/database/hackathon/5a043723-9a85-4475-8e0a-476c311a30e2) 🎓 | Jul 15, 2026 – Sep 6, 2026 | Gwalior, India | 📍 In-person | — |
 | [GBT BuildStorm 2026](https://www.hackathonradar.com/database/hackathon/be7ffa04-842d-4579-9e1c-23f900ec18f7) 🎓 | Jul 15, 2026 – Aug 17, 2026 | Anywhere | 🌐 Online | $18,000 |
-| [AI Supply Chain Hackathon 2026: Save The Date](https://www.hackathonradar.com/database/hackathon/677df248-4cdd-466c-869f-abad8db899c4) 🎓 | Jul 16, 2026 – Jul 17, 2026 | Sunnyvale, United States | 📍 In-person | — |
+| [Code O'Clock 2K26](https://www.hackathonradar.com/database/hackathon/c96d1d49-dbc8-44ac-adb3-6145b244a19c) 🎓 | Jul 15, 2026 – Aug 17, 2026 | Coimbatore, India | 📍 In-person | $600 |
+| [Build With Bharat 2.0](https://www.hackathonradar.com/database/hackathon/4203d99f-2ec1-4272-a97e-48a562ed23b3) 🎓 | Jul 15, 2026 – Sep 13, 2026 | Delhi, India | 📍 In-person | — |
+| [Evil Corp CTF 6 Hour Intense Hacking](https://www.hackathonradar.com/database/hackathon/cd05f8e7-cfca-4636-8eb8-1f63009805aa) 🎓 | Jul 15, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $20 |
+| [H & P PROJECTS Hackathon Global Challenges 2026](https://www.hackathonradar.com/database/hackathon/a779c0ac-ab6c-43ca-b42a-5009a8645e05) 🎓 | Jul 15, 2026 – Aug 24, 2026 | Anywhere | 🌐 Online | — |
 | [Garuda Hacks 7.0](https://www.hackathonradar.com/database/hackathon/902d499e-3c76-4111-a328-0c92380c9e96) 🎓 | Jul 16, 2026 – Jul 18, 2026 | Kelapa Dua, Indonesia | 📍 In-person | — |
 | [Prompt Insights News](https://www.hackathonradar.com/database/hackathon/1558e37a-69a3-496b-9329-7e84a03f3dbb) | Jul 16, 2026 – Jul 25, 2026 | Pitkin, United States | 📍 In-person | — |
-| [OpenAI Build Week Community Hackathon - Rabat](https://www.hackathonradar.com/database/hackathon/c8ffd1b5-c275-4cf3-a0ba-75585af62b1c) | Jul 16, 2026 – Jul 17, 2026 | — | 📍 In-person | — |
 | [BLACKBOX](https://www.hackathonradar.com/database/hackathon/b3023018-0a73-4d07-bd66-659a69fb5247) 🎓 | Jul 16, 2026 – Jul 29, 2026 | Chennai, India | 📍 In-person | — |
 | [CodeCrew's 12th Annual Hackathon](https://www.hackathonradar.com/database/hackathon/93cfd308-8557-476d-bf03-a35983b1c5a3) 🎓 | Jul 16, 2026 – Jul 18, 2026 | Memphis, United States | 📍 In-person | — |
+| [HackDevengers 1.0](https://www.hackathonradar.com/database/hackathon/c0b60a2b-6005-4119-a828-face89147232) 🎓 | Jul 16, 2026 – Aug 9, 2026 | Anywhere | 🌐 Online | — |
+| [MemoryVerse AI '26](https://www.hackathonradar.com/database/hackathon/79f8e664-cc51-491d-aa83-1f7fce167060) 🎓 | Jul 16, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | $36 |
+| [Archestra MCP Apps Hackathon](https://www.hackathonradar.com/database/hackathon/723c379b-ae50-4d3e-bd7c-745af4b1582d) 🎓 | Jul 16, 2026 – Jul 30, 2026 | Anywhere | 🌐 Online | — |
+| [Fugacity: Code the Problem](https://www.hackathonradar.com/database/hackathon/86bdeade-79e5-4e1d-8c8b-441933dea41f) 🎓 | Jul 16, 2026 – Aug 24, 2026 | Kharagpur, India | 📍 In-person | — |
+| [Google Gemini AI Product Trial – Freshers Party Planning Challenge](https://www.hackathonradar.com/database/hackathon/dfdbc5bf-42fe-4c1b-b813-e1d536f7c022) 🎓 | Jul 16, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
 | [757 BLD WKND 2026 2.0](https://www.hackathonradar.com/database/hackathon/c832e718-8878-485e-aaa6-7c0724a652d2) 🎓 | Jul 17, 2026 – Jul 19, 2026 | Norfolk, United States | 📍 In-person | — |
-| [HackathonZ](https://www.hackathonradar.com/database/hackathon/65de4bde-8595-4235-af2b-c7c9f7c0eb30) | Jul 17, 2026 – Jul 18, 2026 | Anywhere | 🌐 Online | — |
-| [World Cup Hackathon](https://www.hackathonradar.com/database/hackathon/21e1f240-b8ba-4efd-aad0-c5e60ba92743) | Jul 17, 2026 | Kuala Lumpur, Malaysia | 📍 In-person | $50,000 |
+| [TechNova: Igniting Brilliance (Season 3)](https://www.hackathonradar.com/database/hackathon/75cac503-22f3-4698-a9be-465fd00e5e05) 🎓 | Jul 17, 2026 – Sep 11, 2026 | Anywhere | 🌐 Online | $2,400 |
 | [RNS Hack_Overflow 2.0](https://www.hackathonradar.com/database/hackathon/a3e9da39-d1ee-4115-ba90-b99a4f521f92) | Jul 17, 2026 – Aug 14, 2026 | Bengaluru, India | 📍 In-person | — |
 | [The Blueprint Hackathon  (For All Ages, July 17th-31st)](https://www.hackathonradar.com/database/hackathon/26f5df6c-d00b-422a-b1d6-31d70ab1c107) 🎓 | Jul 17, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $2,800 |
 | [Global Tech Innovation Challenge](https://www.hackathonradar.com/database/hackathon/968c4dca-9a7b-4500-be41-dde749b1ca00) 🎓 | Jul 17, 2026 – Jul 24, 2026 | Anywhere | 🌐 Online | — |
-| [ai& × Moonshot Tokyo Hackathon Night](https://www.hackathonradar.com/database/hackathon/0d12639a-10ef-4dbd-be40-3b6060baa11d) | Jul 17, 2026 | Shibuya, Japan | 📍 In-person | — |
-| [Midnight MLH Hackathon Kickoff: Build Before You Actual Build \| Udaipur](https://www.hackathonradar.com/database/hackathon/67f3399a-05f9-4010-ac69-cff15f52eff3) | Jul 17, 2026 | Udaipur, India | 📍 In-person | — |
-| [She Nicest & Medo Hackathon pop-up](https://www.hackathonradar.com/database/hackathon/0768c941-3332-44a7-ab44-d93aba33c298) | Jul 17, 2026 | Meguro City, Japan | 📍 In-person | — |
-| [Miro AI Hackathon: From Idea to Prototype](https://www.hackathonradar.com/database/hackathon/e3161787-cec6-4a34-b114-59105c0e0e84) | Jul 17, 2026 | Kigali, Rwanda | 📍 In-person | — |
 | [TxODDS Hackathon 24h Build Station](https://www.hackathonradar.com/database/hackathon/473cc209-9866-4fbc-a034-db4cb7153698) | Jul 17, 2026 – Jul 18, 2026 | Toronto, Canada | 📍 In-person | — |
 | [24hr TxOdds Hackathon - Special VibeStation - Toronto](https://www.hackathonradar.com/database/hackathon/3239ec16-ea82-4f6b-961d-7a5c78d8388b) | Jul 17, 2026 – Jul 18, 2026 | Toronto, Canada | 📍 In-person | — |
 | [Prometheus July AI Challenge](https://www.hackathonradar.com/database/hackathon/3be6030a-41d5-41b5-9220-0db10123b308) 🎓 | Jul 17, 2026 – Jul 31, 2026 | Anywhere | 🌐 Online | $1,500 |
-| [Wishlist Hackathon 2026 - Marine Vision Challenge](https://www.hackathonradar.com/database/hackathon/ceb6447f-1dc8-4692-9015-f5d7110487c9) | Jul 17, 2026 – Aug 23, 2026 | Anywhere | 🌐 Online | $3,000 |
-| [Loop Engineering Hackathon](https://www.hackathonradar.com/database/hackathon/eb55731b-d20c-48fd-9ea1-09be289204a7) | Jul 17, 2026 – Jul 18, 2026 | San Francisco, United States | 📍 In-person | — |
+| [AUS IV Year Coding Challenge-01](https://www.hackathonradar.com/database/hackathon/5a61a616-f2bc-4de4-ab05-b4f985e4dd24) | Jul 17, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | — |
 | [MelonJam 7](https://www.hackathonradar.com/database/hackathon/2a01a98c-8644-461b-908b-299be6ed2f9f) 🎓 | Jul 17, 2026 – Jul 20, 2026 | Anywhere | 🌐 Online | — |
 | [Rap Theory & Complex Systems Hackathon @ MIT](https://www.hackathonradar.com/database/hackathon/b82b140b-16bd-4719-8d04-1b7a3fb068c6) | Jul 17, 2026 – Jul 20, 2026 | Cambridge, United States | 📍 In-person | — |
 | [AITX Community x NVIDIA Claw Agent Hackathon](https://www.hackathonradar.com/database/hackathon/170569f6-f672-41e1-973e-e8c6e529df4f) | Jul 17, 2026 – Jul 19, 2026 | Austin, United States | 📍 In-person | — |
 | [Embodied Metal Hackathon](https://www.hackathonradar.com/database/hackathon/6bd98ae1-90b5-4d63-9f8c-bdf2d6d1496b) | Jul 17, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | — |
+| [Daytona HackSprint - Singapore, July 2026](https://www.hackathonradar.com/database/hackathon/6679ddee-8580-45f2-99fb-d123dcb5e083) | Jul 18, 2026 | Singapore, Singapore | 📍 In-person | — |
 | [OpenAI Build Week Community Hackathon - Jakarta](https://www.hackathonradar.com/database/hackathon/b39db4cc-4488-4f38-8c21-aa5369d5eb62) | Jul 18, 2026 | Kota Jakarta Selatan, Indonesia | 📍 In-person | — |
-| [Build with Gemma](https://www.hackathonradar.com/database/hackathon/42e3acee-e9d6-4a34-8dbd-fc5b9cfbac66) 🎓 | Jul 18, 2026 | Bengaluru, India | 📍 In-person | — |
+| [Evorozen Apex: NextGen AI Buildathon](https://www.hackathonradar.com/database/hackathon/69d6c406-35ed-4667-ae03-0b9bff201e52) | Jul 18, 2026 – Sep 21, 2026 | Anywhere | 🌐 Online | — |
+| [OpenAI Build Week Community Hack Day - Singapore](https://www.hackathonradar.com/database/hackathon/d05d598c-6101-42ab-b9b4-2ab9e09b96f1) | Jul 18, 2026 | Singapore, Singapore | 📍 In-person | — |
 | [FlutterFlow Champions League Hackathon](https://www.hackathonradar.com/database/hackathon/1de77276-d3ee-42c0-a9cb-70f979ade427) | Jul 18, 2026 | Mumbai, India | 📍 In-person | — |
+| [Build with Gemma](https://www.hackathonradar.com/database/hackathon/42e3acee-e9d6-4a34-8dbd-fc5b9cfbac66) 🎓 | Jul 18, 2026 | Bengaluru, India | 📍 In-person | — |
 | [Cursor Hackathon Ahmedabad](https://www.hackathonradar.com/database/hackathon/16f16b04-ed89-4740-82b9-0b06b4509980) | Jul 18, 2026 | Ahmedabad, India | 📍 In-person | — |
 | [OpenAI Build Week Community Hackathon - Hyderabad](https://www.hackathonradar.com/database/hackathon/13b8ee7b-466c-47d4-bfaa-92fc7f46bdb1) | Jul 18, 2026 | — | 📍 In-person | — |
-| [Beyond GenAI: Crafting the Future of Customer-Facing Enterprise Applications by Amadeus and Contenstack - This is a mini Hackathon.](https://www.hackathonradar.com/database/hackathon/8867dfe1-a58c-4c05-841c-b25d912864d1) | Jul 18, 2026 | Bengaluru, India | 📍 In-person | — |
 | [OpenBuild Week - Mini Hackathon](https://www.hackathonradar.com/database/hackathon/35975594-7852-4ac9-8c1c-6df8b8936094) | Jul 18, 2026 | Hyderabad, India | 📍 In-person | $360 |
+| [Beyond GenAI: Crafting the Future of Customer-Facing Enterprise Applications by Amadeus and Contenstack - This is a mini Hackathon.](https://www.hackathonradar.com/database/hackathon/8867dfe1-a58c-4c05-841c-b25d912864d1) | Jul 18, 2026 | Bengaluru, India | 📍 In-person | — |
 | [Browser-Use Hackathon: GTM Edition](https://www.hackathonradar.com/database/hackathon/6fa1a1e4-ecb4-4659-b6e0-d5ab49421442) | Jul 18, 2026 | Bengaluru, India | 📍 In-person | $120 |
+| [Developer Hackathon: Build AI Agents with Elastic & Google Cloud](https://www.hackathonradar.com/database/hackathon/decf5a56-df7e-42a0-afe8-07225f1dbb54) | Jul 18, 2026 | Gurugram, India | 📍 In-person | — |
+| [EVM Capital Hackathon](https://www.hackathonradar.com/database/hackathon/c120bb35-79b5-45ae-ac7d-5d4de3dc58f2) | Jul 18, 2026 – Jul 19, 2026 | Bengaluru, India | 📍 In-person | — |
+| [She Nicest × MeDo Pop-up Hackathon Hong Kong](https://www.hackathonradar.com/database/hackathon/21b388b3-3f94-4b96-a62d-65064f89d08e) | Jul 18, 2026 | Science Park, Hong Kong | 📍 In-person | — |
+| [Mistral Vibe Hackathon](https://www.hackathonradar.com/database/hackathon/e002c7a9-d0a8-47c5-8283-6e6132655c51) | Jul 18, 2026 | Paris, France | 📍 In-person | — |
+| [TxOdds X Solana - World Cup Hackathon: SuperteamThailand Buildstation](https://www.hackathonradar.com/database/hackathon/ec15c8f0-cf76-405d-95eb-13573be10a8d) | Jul 18, 2026 | Thailand | 📍 In-person | $50,000 |
 | [Hackathon New Delhi: Build AI Agents](https://www.hackathonradar.com/database/hackathon/e21057cf-f0fc-44be-94c7-072c418a425d) | Jul 18, 2026 | Gurugram, India | 📍 In-person | $360 |
+| [{Tech: Europe} x Almedia Hackathon \| The Summer Lock-In](https://www.hackathonradar.com/database/hackathon/5028b6ee-ef2f-462f-81ab-be9334435bdc) | Jul 18, 2026 | Berlin, Germany | 📍 In-person | — |
+| [OpenAI Build Week Community Hackathon – Paris](https://www.hackathonradar.com/database/hackathon/19cad431-c4a8-469f-87e5-8fc4892a53cb) | Jul 18, 2026 | — | 📍 In-person | — |
+| [8x Mobile App Hackathon](https://www.hackathonradar.com/database/hackathon/42dea1af-ff91-4624-b536-819860575b82) | Jul 18, 2026 | Ljubljana, Slovenia | 📍 In-person | — |
+| [OpenAI Build Week Community Hackathon - London](https://www.hackathonradar.com/database/hackathon/839cb9c5-80e6-4cf0-b0f3-35f632283fc5) | Jul 18, 2026 | London, United Kingdom | 📍 In-person | — |
 | [Axiometa x Anthropic: Hardware Hack](https://www.hackathonradar.com/database/hackathon/e9740fa6-da1a-4a88-a81f-0f9133af5cd7) | Jul 18, 2026 – Jul 19, 2026 | London, United Kingdom | 📍 In-person | — |
+| [AI Enthusiasts - Weekend Hackathon[2]](https://www.hackathonradar.com/database/hackathon/b44ac109-8b81-426e-8934-6cf819d3cce6) | Jul 18, 2026 – Jul 19, 2026 | Berlin, Germany | 📍 In-person | — |
+| [TxOdds X Solana - World Cup Hackathon - London Encode Club](https://www.hackathonradar.com/database/hackathon/9113ac86-5628-488f-85c3-0624622e1c06) | Jul 18, 2026 – Jul 19, 2026 | London, United Kingdom | 📍 In-person | $50,000 |
 | [Femetronics x Momentum Hackathon #1](https://www.hackathonradar.com/database/hackathon/3d10abf7-0a33-407d-8455-e15c958e8237) | Jul 18, 2026 – Jul 19, 2026 | — | 📍 In-person | — |
+| [OpenAI Build Week Community Hackathon - Brussels](https://www.hackathonradar.com/database/hackathon/87346941-2c59-4f42-a000-03d74b153e36) | Jul 18, 2026 – Jul 19, 2026 | Ixelles, Belgium | 📍 In-person | — |
+| [Hack Your Way Into the Hacker House - powered by OnlyExit](https://www.hackathonradar.com/database/hackathon/4d87abe3-3465-48fb-85f9-d93cb770ed7a) | Jul 18, 2026 | New York, United States | 📍 In-person | — |
+| [🏆 Builders Cup 2026 - A Hackathon by Ramp](https://www.hackathonradar.com/database/hackathon/61923cf5-84a0-4bf1-b2ce-0d569475d750) | Jul 18, 2026 | New York, United States | 📍 In-person | — |
+| [Hack-Nation HUB – Linz](https://www.hackathonradar.com/database/hackathon/8701a610-0f2e-4b4d-8101-955730f63890) | Jul 18, 2026 – Jul 19, 2026 | Linz, Austria | 📍 In-person | — |
+| [DeepLearning.AI Voice AI Hackathon: The Complete Trip, powered by Sabre and Vocal Bridge](https://www.hackathonradar.com/database/hackathon/f2689415-b235-4235-b0b9-faaf515950ce) | Jul 18, 2026 – Jul 19, 2026 | Mountain View, United States | 📍 In-person | — |
+| [Hackathon for MIT AI Conference](https://www.hackathonradar.com/database/hackathon/34dcc626-267b-40b8-b362-ef5b0ba2d019) | Jul 18, 2026 – Jul 19, 2026 | Cambridge, United States | 📍 In-person | — |
+| [Stanford Hub - Hacknation Global AI Hackathon](https://www.hackathonradar.com/database/hackathon/88bc16de-c9bf-4d9a-899e-b40a5c88a12d) | Jul 18, 2026 – Jul 19, 2026 | Palo Alto, United States | 📍 In-person | — |
+| [San Francisco Hub - Hacknation Global AI Hackathon](https://www.hackathonradar.com/database/hackathon/0ff58ada-8093-4ac6-a149-e7813b388b5a) | Jul 18, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | — |
+| [AGI Summit 2026 Hackathon](https://www.hackathonradar.com/database/hackathon/671101f3-d885-47d8-bd25-b455e080bdc3) 🎓 | Jul 18, 2026 – Jul 19, 2026 | Anywhere | 🌐 Online | — |
+| [AGI Summit 2026 Hackathon](https://www.hackathonradar.com/database/hackathon/35dd121d-7189-4125-9883-ca5f61fb4232) | Jul 18, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | $1,000 |
+| [Worlds in Action Hack [02-LA]: SIGGRAPH EDITION](https://www.hackathonradar.com/database/hackathon/6b16e969-7ca8-41c0-ab19-665cf7259e78) | Jul 18, 2026 – Jul 20, 2026 | Los Angeles, United States | 📍 In-person | — |
+| [Absolute Cinema! AI Filmmaking & Storytelling Hack](https://www.hackathonradar.com/database/hackathon/a0c4872b-d51d-478c-8eeb-957d6fea4fe1) | Jul 18, 2026 – Jul 20, 2026 | Los Angeles, United States | 📍 In-person | — |
+| [Part 1: Breaking Barriers to AI Safety Hackathon](https://www.hackathonradar.com/database/hackathon/1e81b004-34f8-4cd7-a37c-71e84add5f4d) | Jul 18, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | $1,000 |
+| [Agents Hack Day at Bright Data](https://www.hackathonradar.com/database/hackathon/e8bab790-a77f-4781-b45e-3b9262e9c0aa) | Jul 18, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | — |
+| [Voice coding hackathon](https://www.hackathonradar.com/database/hackathon/3c3e29bf-42b2-475b-afff-5fec064f319b) | Jul 18, 2026 – Jul 19, 2026 | San Francisco, United States | 📍 In-person | — |
+| [AI Voice Agent hackathon: Supafone.ai](https://www.hackathonradar.com/database/hackathon/007f02ff-e941-464b-b666-27dcc7e8d1d8) | Jul 18, 2026 – Jul 19, 2026 | New York, United States | 📍 In-person | — |
+| [AI Film Hackathon in Tokyo - July 2026](https://www.hackathonradar.com/database/hackathon/a0455e30-13e3-4ac0-813a-65a0f0291bf5) | Jul 19, 2026 | Kawasaki, Japan | 📍 In-person | — |
 | [Hack with AI](https://www.hackathonradar.com/database/hackathon/2dfc4e38-7ddd-4bbd-971b-0c505ee0fc80) 🎓 | Jul 19, 2026 | Bhopal, India | 📍 In-person | $6 |
+| [(Student Hackathon) Divergent National Cup 2026](https://www.hackathonradar.com/database/hackathon/12f9a9c1-5c32-491d-8675-b56cd23194d0) | Jul 19, 2026 | Seattle, United States | 📍 In-person | — |
+| [Sound and Movement Hackathon](https://www.hackathonradar.com/database/hackathon/4ba16485-a35f-4370-a0f7-54c303e0c35b) | Jul 19, 2026 – Jul 20, 2026 | Brooklyn, United States | 📍 In-person | — |
+| [Stanford x DeepMind Hackathon: Build. Ship. Win up to $5M in Seed Funding*](https://www.hackathonradar.com/database/hackathon/c3b3ad98-51fc-4201-a5cc-03e9c8e9ff58) | Jul 19, 2026 – Jul 20, 2026 | Stanford, United States | 📍 In-person | $12,000 |
 | [FutureForge Hackathon 2026](https://www.hackathonradar.com/database/hackathon/e05f15b1-5fcb-4858-871d-e2b7c45c736d) | Jul 19, 2026 – Jul 20, 2026 | Mumbai, India | 📍 In-person | — |
+| [Hack Fair - AITX<>NVIDIA Claw Agent Hackathon](https://www.hackathonradar.com/database/hackathon/3fb92cf5-cebd-4bb0-b125-7fb9fa36cb47) | Jul 19, 2026 | Austin, United States | 📍 In-person | — |
 | [Alpha Quest Hack](https://www.hackathonradar.com/database/hackathon/13295be3-8b0b-4572-8dbb-422eaf25da6a) | Jul 20, 2026 – Jul 22, 2026 | Bengaluru, India | 📍 In-person | $100,000 |
 | [Agents of SigNoz](https://www.hackathonradar.com/database/hackathon/9f24abc4-4d64-47b7-b8ae-742d4492045a) | Jul 20, 2026 – Jul 26, 2026 | Anywhere | 🌐 Online | $20,000 |
+| [OpenAI Build Week Community Hackathon - Athens](https://www.hackathonradar.com/database/hackathon/d27cf508-e1ec-478b-adfa-0577b30c0803) | Jul 20, 2026 | Athina, Greece | 📍 In-person | — |
 | [Zoo API Makeathon](https://www.hackathonradar.com/database/hackathon/cdc9f8e2-378e-4f38-abad-130d6f0af213) | Jul 22, 2026 – Aug 5, 2026 | Anywhere | 🌐 Online | — |
+| [Last Mile Agent Hackathon](https://www.hackathonradar.com/database/hackathon/b95d4ada-ed3e-45f2-ab4c-61565696c33c) | Jul 22, 2026 | San Francisco, United States | 📍 In-person | — |
 | [Rampamble](https://www.hackathonradar.com/database/hackathon/a7d95e0c-06b5-4f37-8cfb-b04015cd9bcb) 🎓 | Jul 22, 2026 – Aug 20, 2026 | Kolhapur, India | 📍 In-person | $50,000 |
+| [AI Business Apps Micro Hackathon with Softr](https://www.hackathonradar.com/database/hackathon/d4ea8400-1471-403f-b081-3d6b3eea8b42) | Jul 22, 2026 | London, United Kingdom | 📍 In-person | — |
 | [XHaCk](https://www.hackathonradar.com/database/hackathon/39a57bc0-9b7f-4d3f-8a27-b23baacfdb9f) | Jul 22, 2026 – Jul 23, 2026 | Anywhere | 🌐 Online | — |
+| [👩‍💻 🌐 👨‍💻 AI Power Hour Climate Hackathon](https://www.hackathonradar.com/database/hackathon/0e72e631-80bb-4dcc-930d-84226ed423e1) | Jul 22, 2026 – Jul 23, 2026 | San Francisco, United States | 📍 In-person | — |
+| [GTM Hackathon](https://www.hackathonradar.com/database/hackathon/42154736-1c36-486f-815e-49da26db8c8d) | Jul 23, 2026 | San Francisco, United States | 📍 In-person | — |
 | [Kifiya Inspire Hackathon 2026 R2](https://www.hackathonradar.com/database/hackathon/20d02bc7-6a5b-4b19-8d69-0ae3738bc751) | Jul 23, 2026 – Jul 24, 2026 | Addis Ababa, Ethiopia | 📍 In-person | $623 |
+| [Nuremberg \| Claude Impact Lab Hackathon](https://www.hackathonradar.com/database/hackathon/1f4ab762-5425-4a8a-bec6-9fb19ccdc70c) | Jul 23, 2026 | Nürnberg, Germany | 📍 In-person | — |
+| [AI Hack Night NYC feat. Box, Anthropic, Auth0 & Temporal](https://www.hackathonradar.com/database/hackathon/5e100820-f47b-47d4-a2fe-06bfd8c7fc07) | Jul 23, 2026 – Jul 24, 2026 | New York, United States | 📍 In-person | — |
+| [OpenAI × Start2 × Zendesk Hackathon](https://www.hackathonradar.com/database/hackathon/09351784-aebe-4793-9e0e-e0ce55711bc9) | Jul 23, 2026 – Jul 24, 2026 | San Francisco, United States | 📍 In-person | — |
 | [FlutterFlow Champions League Hackathon](https://www.hackathonradar.com/database/hackathon/e9cdf0a9-a29d-403f-8d47-0c2f557226ab) | Jul 24, 2026 | Watmull College Of Engineering | 📍 In-person | $108 |
+| [SF AI Tech Stack Hack Night](https://www.hackathonradar.com/database/hackathon/8690bd84-f371-4943-a93b-deb37c705abe) | Jul 24, 2026 | San Francisco, United States | 📍 In-person | — |
 | [HackVSIT7.0](https://www.hackathonradar.com/database/hackathon/a48fdbc5-22c5-452b-bb32-2ede59e7bdc9) 🎓 | Jul 24, 2026 – Jul 25, 2026 | Delhi, India | 📍 In-person | — |
 | [HyperFusion](https://www.hackathonradar.com/database/hackathon/eacf04a2-88dc-46ed-aca5-88a5aec15fd4) | Jul 24, 2026 | Kalyani, India | 📍 In-person | — |
+| [Applied AI Hackathon](https://www.hackathonradar.com/database/hackathon/65daa2d8-ca3a-4f59-a1de-cb2155e89181) | Jul 24, 2026 | Lisbon, Portugal | 📍 In-person | $2,000 |
+| [<invisible />](https://www.hackathonradar.com/database/hackathon/da663f1b-0df8-40c5-8f13-ba79334232ae) | Jul 24, 2026 | Anywhere | 🌐 Online | — |
+| [Horizons Europa](https://www.hackathonradar.com/database/hackathon/8562bfb7-8a0f-4389-aeeb-b972c51cc4ca) 🎓 | Jul 24, 2026 – Jul 26, 2026 | Berlin, Germany | 📍 In-person | — |
+| [Hello, Robot! Hack Day with Viam and SPC](https://www.hackathonradar.com/database/hackathon/9f4b0973-780e-42a3-b7ed-8dd5de81b105) | Jul 24, 2026 | New York, United States | 📍 In-person | — |
+| [Daytona HackSprint w/ Braintrust - SF, July 2026](https://www.hackathonradar.com/database/hackathon/52dcfa6e-bdf0-4b7b-a7c2-e89dd92500c7) | Jul 24, 2026 – Jul 25, 2026 | San Francisco, United States | 📍 In-person | $10,000 |
+| [Self-Evolving Agents Hackathon](https://www.hackathonradar.com/database/hackathon/048a08f5-620f-4a0e-bd25-6481517e901a) | Jul 24, 2026 – Jul 25, 2026 | San Francisco, United States | 📍 In-person | — |
+| [You.com Agentic Hackathon @ AWS Builder Loft](https://www.hackathonradar.com/database/hackathon/c538af64-2479-476f-8ad5-2c793180fbff) | Jul 24, 2026 – Jul 25, 2026 | San Francisco, United States | 📍 In-person | $10,000 |
+| [Energy Hackathon: Solving Austin's Electricity Emissions Challenges](https://www.hackathonradar.com/database/hackathon/df1c6a63-8748-43e0-82bf-8fc6f3881c56) | Jul 24, 2026 – Jul 26, 2026 | Austin, United States | 📍 In-person | — |
+| [InnovaHack Chapter - 1](https://www.hackathonradar.com/database/hackathon/86dd06be-a3fd-4d07-9af7-9d00a4792c68) | Jul 25, 2026 – Aug 8, 2026 | Maharashtra, India | 🔀 Hybrid | $6,000 |
+| [ChainHack](https://www.hackathonradar.com/database/hackathon/389c0818-284b-4358-9d34-8bdc91e110ce) | Jul 25, 2026 – Aug 6, 2026 | — | 🔀 Hybrid | $4,000 |
+| [VARCHASVA 2026](https://www.hackathonradar.com/database/hackathon/2ab3617f-8882-44a5-a680-a0987124b62a) | Jul 25, 2026 – Jul 26, 2026 | Noida | 📍 In-person | $360 |
+| [Esri's Weekend of Innovation 2026](https://www.hackathonradar.com/database/hackathon/a83b0400-9d33-4218-9905-aaba1dbeb434) 🎓 | Jul 25, 2026 – Jul 26, 2026 | Redlands, United States | 📍 In-person | — |
+| [c0mpiled-11: Startup School Hackathon!](https://www.hackathonradar.com/database/hackathon/155203a9-8a70-4f33-af97-18fc882d69cd) | Jul 25, 2026 | San Francisco, United States | 📍 In-person | $3,000 |
+| [Agent Forge AI Hackathon: ハッカソン東京](https://www.hackathonradar.com/database/hackathon/21817d7f-0743-4ba2-be9c-7101cda773c9) | Jul 25, 2026 | Minato City, Japan | 📍 In-person | — |
+| [Social Hack Day #77](https://www.hackathonradar.com/database/hackathon/740bac35-dfb7-488a-9cb8-5d169429a7df) | Jul 25, 2026 | Chiyoda City, Japan | 📍 In-person | — |
+| [Sketch "n" Ship with AI](https://www.hackathonradar.com/database/hackathon/35b58a3c-5250-46ed-8fca-aed12c4b18a5) | Jul 25, 2026 | — | 📍 In-person | — |
+| [DevsUnite Hiring Hackathon](https://www.hackathonradar.com/database/hackathon/1352ec8d-1648-4c2a-a149-844cf70e9485) 🎓 | Jul 25, 2026 | Anywhere | 🌐 Online | $36 |
+| [DIVE 2026](https://www.hackathonradar.com/database/hackathon/ccc79611-a2da-4aec-bc38-c5cc65caf588) | Jul 25, 2026 – Jul 26, 2026 | APEC-ro, South Korea | 📍 In-person | $2,900 |
+| [HackDays Delhi](https://www.hackathonradar.com/database/hackathon/335c4b48-5440-4ffa-9722-8c0955e02386) | Jul 25, 2026 | Delhi, India | 📍 In-person | — |
+| [InnoFusion 3.0](https://www.hackathonradar.com/database/hackathon/4ac7c373-b737-40d8-8a8f-73e410d0f66a) 🎓 | Jul 25, 2026 – Jul 26, 2026 | New Town, India | 📍 In-person | $36 |
